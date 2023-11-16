@@ -1,3 +1,7 @@
+
+![image](https://github.com/Rohan5manza/LLM-powered-Applications/assets/97607649/09623037-e4ce-417a-9354-7757d7ca345f)
+
+
 # LLM-powered-Applications
 My projects that implement deployment of various Large language models-powered web applications 
 What this project is about:
@@ -11,6 +15,8 @@ Things this project covered:
 2. Working with vector databases for storing text embeddings
 3. Use of Langchain agent, tools, etc. (PS: langchain agent is deprecated for csv tasks, although the concept of agent is really good and clever, use csv loader function for future projects)
 4. Streamlit for frontend ( and deploying on Streamlit cloud if needed)
+
+Project potentially serves as a replacement to Serge(use of multiple HF model templates,etc), or even PrivateGPT.
 
 Future project directions:
 1. Youtube video transcripter
